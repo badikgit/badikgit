@@ -1,4 +1,4 @@
-| <h1>Stanislau Yarotski</h1>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFF&lines=        +Frontend+Developer)](https://git.io/typing-svg)<br><br><br><h2>Contacts</h2><ul <li>  <a href="https://www.linkedin.com/in/yarotski-stanislau/"><img src="./image/icon/icon-linkedin-header.svg" height="12"> Stanislau Yarotski</a></li></ul> | <img src="https://user-images.githubusercontent.com/49131247/233629711-a97e8e32-d714-482e-9487-ebadaffd3e70.png">|
+| <h1>Stanislau Yarotski</h1>[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFF&lines=        +Frontend+Developer)](https://git.io/typing-svg)<br><br><br><h2>Contacts</h2><ul> <li>  <a href="https://www.linkedin.com/in/yarotski-stanislau/"><img src="./image/icon/icon-linkedin-header.svg" height="12"> Stanislau Yarotski</a></li></ul> | <img src="https://user-images.githubusercontent.com/49131247/233629711-a97e8e32-d714-482e-9487-ebadaffd3e70.png">|
 | ------ | ------ |
 
 <h2>About myself</h2>
